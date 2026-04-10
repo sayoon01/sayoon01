@@ -97,10 +97,5 @@
 
 ---
 
-## 📬 Contact  
-
-[![Email](https://img.shields.io/badge/Email-1011001y@keti.re.kr-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:1011001y@keti.re.kr)
----
-
 # 📬 Contacts
 [![KETI Mail Badge](https://img.shields.io/badge/KETI%20Mail-0052CC?style=flat-square&logo=Gmail&logoColor=white)](mailto:1011001y@keti.re.kr)
