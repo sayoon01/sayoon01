@@ -74,7 +74,7 @@
 
 ---
 
-### 🤖 tsql2py  
+### 🤖 tsql2py  , sql2python_agent
 **SQL → Python Conversion Agent**
 
 - T-SQL → Python 변환 파이프라인 설계  
